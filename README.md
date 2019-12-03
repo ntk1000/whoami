@@ -22,11 +22,14 @@
 - 2019 product-manager
 - 2018 team-leader, engineering-manager, recruitment
 - 2017 backend, cloud-architect, infra, tech-lead
-- - 2016 backend, bigdata, etc..
+- ~ 2016 backend, bigdata, etc..
 
 ## fav
 
-- workout (bodyweight training) 💪
-- music (90s hiphop, r&b, lo-fi beats on sp404sx, on spotify or bandcamp) 🎧
+- [workout (bodyweight training) 💪](https://www.artofmanliness.com/articles/the-prisoner-workout/)
+- [music (90s hiphop, r&b, lo-fi beats on sp404sx, on spotify or bandcamp) 🎧](https://open.spotify.com/playlist/01CHYHeFJ7jbYI9vdthttf?si=lgqfcqLBQ3mcNGxX1ytcjQ)
 - fashion (xxxxl) Ⓧ
 - and playing with my children 😅
+- [golang](https://golang.org/doc/)
+- [terraform](https://www.terraform.io/)
+- [container/k8s](https://www.opencontainers.org/)
