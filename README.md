@@ -33,7 +33,7 @@ as Nou ga Tokeru Kibyou (brain melted disease) + 1000 (my favorite num)
 ## fav
 
 - [💪 workout (bodyweight training)](https://www.artofmanliness.com/articles/the-prisoner-workout/)
-- [🎧 music (90s hiphop, r&b, lo-fi beats on sp404sx, on spotify or bandcamp)](https://open.spotify.com/playlist/01CHYHeFJ7jbYI9vdthttf?si=lgqfcqLBQ3mcNGxX1ytcjQ)
+- [🎧 music (on spotify or bandcamp)](https://open.spotify.com/playlist/01CHYHeFJ7jbYI9vdthttf?si=lgqfcqLBQ3mcNGxX1ytcjQ)
 - Ⓧ fashion (xxxxxl) 
 - ⛲️ and playing with my children at the park
 - [golang](https://golang.org/doc/)
